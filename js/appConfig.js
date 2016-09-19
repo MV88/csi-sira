@@ -17,7 +17,7 @@ module.exports = {
                 toolbar: {
                     active: null,
                     expanded: false
-                },
+                }, 
                 drawer: {
                     enabled: false,
                     menu: "1"
